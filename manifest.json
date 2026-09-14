@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Laboratory Values",
   "orientation": "any",
-  "scope": "/",
+  "scope": "Laboratory-Values",
   "short_name": "Lab Values",
-  "start_url": "/",
+  "start_url": "Laboratory-Values",
   "theme_color": "#ffffff",
   "icons": [
     {
