@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Laboratory Values",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Lab Values",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
