@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Laboratory Values",
   "orientation": "any",
-  "scope": "Laboratory-Values",
+  "scope": "https://gatewayirakli-beep.github.io/Laboratory-Values/",
   "short_name": "Lab Values",
-  "start_url": "Laboratory-Values",
+  "start_url": "https://gatewayirakli-beep.github.io/Laboratory-Values/",
   "theme_color": "#ffffff",
   "icons": [
     {
